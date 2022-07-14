@@ -25,7 +25,6 @@ const DetailsScreen: React.FC<Props> = ({product = mock.product}) => {
               <Link>Stitch</Link>
             </Stack>
           </Stack>
-
         </Container>
       </Box>
     </Stack>
